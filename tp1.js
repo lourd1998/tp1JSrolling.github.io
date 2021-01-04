@@ -47,3 +47,4 @@ for(let i=0; i< frase.length; i++){
         document.write (frase.substr(i,1))
     }
 }
+ //fin
